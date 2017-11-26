@@ -1,7 +1,6 @@
 # simple-sanic
 
-This is a drop-in replacement of `http.server`. It allows to serve the content
-of the current directory as static files.
+| `simple-sanic` is a drop-in replacement of `http.server`. It allows to serve the content of the current directory as static files. Except much faster! :rotating_light::boom:
 
 With `http.server`:
 
