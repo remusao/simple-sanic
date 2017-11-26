@@ -1,0 +1,7 @@
+aiofiles==0.3.2
+docopt==0.6.2
+httptools==0.0.9
+sanic==0.6.0
+ujson==1.35
+uvloop==0.8.1
+websockets==4.0.1
